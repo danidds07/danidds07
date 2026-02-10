@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **UNESP - Universidade Estadual Paulista**
 
-- 🌱 I’m currently learning **Advanced C/Python Programming**
+- 🌱 I’m currently learning **Advanced C/C++ Programming**
 
 - 📫 How to reach me **daniel.augusto-silva@unesp.br**
 
