@@ -62,15 +62,6 @@ I’m also part of **CODEQUEST**, where I help **teach programming** and **game 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danidds07&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danidds07&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Philosophy
 
 > _"Code is not just about solving problems.  
