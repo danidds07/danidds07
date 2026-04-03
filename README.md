@@ -23,7 +23,7 @@ I’m also part of **CODEQUEST**, where I help **teach programming** and **game 
   <a href="https://www.youtube.com/@CodequestOficial">
     <img src="https://img.shields.io/badge/YouTube-CODEQUESTOFICIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/daniel-augusto-silva-546210299/">
+  <a href="https://www.linkedin.com/in/daniel-augusto-silva-546210299/Daniel Augusto Silva">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
