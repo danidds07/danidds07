@@ -40,7 +40,7 @@ I’m also part of **CODEQUEST**, where I help **teach programming** and **game 
 -   🌐 Basic web development (HTML, CSS, JavaScript)  
 -   🔄 Version control with Git & GitHub  
 -   ☁️ Working with Firebase (basic backend concepts)  
--   🎮 Teaching game development with Godot (Codequest)  
+-   🎮 Teaching game development with Godot (CODEQUEST)  
 
 ---
 
