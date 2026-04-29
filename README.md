@@ -1,6 +1,7 @@
 # Hi 👋, I'm Daniel Silva
 
 🎓 **Computer Science Student | UNESP Bauru - FC**
+
 💻 **IT Technician | UNESP Jaboticabal - FCAV**
 🇧🇷 Brazil
 
