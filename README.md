@@ -1,18 +1,18 @@
-# Hi 👋, I'm Daniel Silva
+# Olá 👋, eu sou Daniel
 
-🎓 **Computer Science Student | UNESP Bauru - FC**
+🎓 **Estudante de Ciência da Computação | UNESP Bauru - FC**
 
-💻 **IT Technician | UNESP Jaboticabal - FCAV**
-🇧🇷 Brazil
+💻 **Técnico em Informática | UNESP Jaboticabal - FCAV**  
+🇧🇷 Brasil
 
-I build applications using **C/C++**, **Java**, and have experience with **basic web technologies (HTML, CSS, JavaScript)**, as well as tools like **Git**, **GitHub**, and **Firebase**.
-I'm deeply focused on **performance**, **clean code**, **architecture**, and **business-driven solution**.
+Desenvolvo aplicações utilizando **C/C++**, **Java** e possuo experiência com **tecnologias web básicas (HTML, CSS e JavaScript)**, além de ferramentas como **Git**, **GitHub** e **Firebase**.  
+Tenho grande interesse em **performance**, **código limpo**, **arquitetura de software** e **soluções orientadas a negócio**.
 
-I’m also part of **CODEQUEST**, where I help **teach programming** and **game development** using the **Godot Engine**, contributing to the learning journey of new developers.
+Também faço parte do **CODEQUEST**, onde ajudo no ensino de **programação** e **desenvolvimento de jogos** utilizando a **Godot Engine**, contribuindo na jornada de aprendizado de novos desenvolvedores de games.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/danidds07">
@@ -31,21 +31,21 @@ I’m also part of **CODEQUEST**, where I help **teach programming** and **game 
 
 ---
 
-## 🧠 What I do
+## 🧠 O que eu faço
 
--   💻 Programming with C/C++ and Java  
--   🧠 Problem-solving and algorithms practice  
--   🔐 Building authentication systems (login and user management)  
--   🏥 Developed systems such as hospital management, delivery, banking, and business applications  
--   🗺️ Created projects like a trail map system  
--   🌐 Basic web development (HTML, CSS, JavaScript)  
--   🔄 Version control with Git & GitHub  
--   ☁️ Working with Firebase (basic backend concepts)  
--   🎮 Teaching game development with Godot (CODEQUEST)  
+- 💻 Aplicações em C/C++ e Java  
+- 🧠 Resolução de problemas e prática de algoritmos  
+- 🔐 Desenvolvimento de sistemas de autenticação (login e gerenciamento de usuários)  
+- 🏥 Desenvolvimento de sistemas como gestão hospitalar, delivery, banco e demais aplicações comerciais  
+- 🗺️ Criação de projetos como sistemas de mapeamento de trilhas  
+- 🌐 Desenvolvimento web básico (HTML, CSS e JavaScript)  
+- 🔄 Controle de versão com Git & GitHub  
+- ☁️ Utilização do Firebase (banco de dados e hospedagem web)
+- 🎮 Ensino de desenvolvimento de jogos com Godot (CODEQUEST)  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### Frontend
 
@@ -59,19 +59,19 @@ I’m also part of **CODEQUEST**, where I help **teach programming** and **game 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### DevOps & Tools
+### DevOps & Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Programação não é apenas sobre resolver problemas.  
+> É sobre construir algo que faça a diferência no dia a dia das pessoas."_
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ Se gostar do meu trabalho, considere deixar uma estrela em algum repositório  
+🤝 Sempre aberto para colaborações, parcerias e novas ideias
