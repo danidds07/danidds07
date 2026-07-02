@@ -5,7 +5,7 @@
 💻 **Técnico em Informática | UNESP Jaboticabal - FCAV**  
 🇧🇷 Brasil
 
-Desenvolvo aplicações utilizando **C/C++**, **Java** e possuo experiência com **tecnologias web básicas (HTML, CSS e JavaScript)**, além de ferramentas como **Git**, **GitHub** e **Firebase**.  
+Desenvolvo aplicações utilizando **C/C++**, **Java** e possuo experiência com **tecnologias web básicas (HTML, CSS e JavaScript)**, além de ferramentas como **Git**, **Vercel** e **Supabase/Firebase**.  
 Tenho grande interesse em **performance**, **código limpo**, **arquitetura de software** e **soluções orientadas a negócio**.
 
 Também faço parte do **CODEQUEST**, onde ajudo no ensino de **programação** e **desenvolvimento de jogos** utilizando a **Godot Engine**, contribuindo na jornada de aprendizado de novos desenvolvedores de games.
