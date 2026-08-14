@@ -1,9 +1,11 @@
 # Olá 👋, eu sou Daniel
 
 💼 **Freelance Developer @ Dashq Tech**
+
 🎓 **Estudante de Ciência da Computação | UNESP Bauru - FC**
+
 💻 **Técnico em Informática | UNESP Jaboticabal - FCAV**
-🇧🇷 Brasil
+
 
 Desenvolvo aplicações com foco em **backend**, principalmente em **C/C++**, **Next.js** e **PostgreSQL/Supabase**, além de **Java** e **SQL**. Também tenho experiência com front-end (**React**, **Tailwind**) em projetos freelance, e uso ferramentas como **Git**, **Vercel** e **Cloudflare** no dia a dia.
 
