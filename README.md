@@ -2,7 +2,7 @@
 
 💼 **Freelance Developer @ Dashq Tech**
 
-🎓 **Estudante de Ciência da Computação | UNESP Bauru - FC**
+🎓 **Ciência da Computação | UNESP Bauru - FC**
 
 💻 **Técnico em Informática | UNESP Jaboticabal - FCAV**
 
