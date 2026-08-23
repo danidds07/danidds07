@@ -1,21 +1,20 @@
-# Olá 👋, eu sou Daniel
+# Olá, eu sou o Daniel
 
-💼 **Freelance Developer @ Dashq Tech**
+**Freelance Developer @ Dashq Tech**
 
-🎓 **Ciência da Computação | UNESP Bauru - FC**
+**Ciência da Computação @ UNESP Bauru (FC)**
 
-💻 **Técnico em Informática | UNESP Jaboticabal - FCAV**
+**Técnico em Informática @ UNESP Jaboticabal (FCAV)**
 
+Desenvolvo aplicações com foco em backend, principalmente em C/C++, Next.js e PostgreSQL/Supabase, além de Java e SQL. Também tenho experiência com front-end (React, Tailwind) em projetos freelance, e uso Git, Vercel e Cloudflare no dia a dia.
 
-Desenvolvo aplicações com foco em **backend**, principalmente em **C/C++**, **Next.js** e **PostgreSQL/Supabase**, além de **Java** e **SQL**. Também tenho experiência com front-end (**React**, **Tailwind**) em projetos freelance, e uso ferramentas como **Git**, **Vercel** e **Cloudflare** no dia a dia.
+Tenho interesse particular em performance, código limpo e arquitetura de software.
 
-Tenho grande interesse em **performance**, **código limpo**, **arquitetura de software** e **soluções orientadas a negócio**.
-
-Também faço parte do **CODEQUEST**, onde ajudo no ensino de **programação** e **desenvolvimento de jogos** utilizando a **Godot Engine**, contribuindo na jornada de aprendizado de novos desenvolvedores de games.
+Também faço parte do CODEQUEST, onde ensino programação e desenvolvimento de jogos com Godot Engine para quem está começando na área.
 
 ---
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/danidds07">
@@ -34,24 +33,21 @@ Também faço parte do **CODEQUEST**, onde ajudo no ensino de **programação** 
 
 ---
 
-## 🧠 O que eu faço
+## O que eu faço
 
-- 🛒 **StockFlow**: sistema de PDV e estoque com backend real (em andamento), Next.js + PostgreSQL/Supabase, Row-Level Security, RPCs e regras de negócio sempre validadas no servidor
-- 🌐 **Landing page Nubio Tech** (via Dashq Tech): projeto freelance front-end em React, Vite e Tailwind, sem backend, hospedado em CDN estático
-- ☁️ Configuração de DNS e hospedagem do domínio do site da Nubio Tech, domínio registrado no registro.br, DNS gerenciado via Cloudflare
-- 🚚 Sistema de entregas em Java (OOP + SQLite/JDBC)
-- 🗄️ Sistema de cadastro CRUD em C, com persistência em arquivo binário
-- 🏥 Sistemas de gestão hospitalar e bancária, e outras aplicações comerciais
-- 🗺️ Sistema de mapeamento de trilhas
-- 🎮 Projeto em C/C++ envolvendo jogos de console
-- 🔐 Desenvolvimento de sistemas de autenticação (login e gerenciamento de usuários)
-- 🎓 Ensino de programação e desenvolvimento de jogos com Godot (CODEQUEST)
-- 🎬 Edição de vídeo do conteúdo publicado no canal do CODEQUEST
-- 🔄 Controle de versão com Git & GitHub
+- **StockFlow** (@dashqtech): sistema de PDV e estoque com backend real, em andamento. Next.js + PostgreSQL/Supabase, Row-Level Security, RPCs e regras de negócio sempre validadas no servidor
+- **Landing page da Nubio Tech** (@dashqtech): projeto freelance de front-end em React, Vite e Tailwind, sem backend, hospedado em CDN estático
+- Configuração de DNS e domínio do site da Nubio Tech, registrado no registro.br e gerenciado via Cloudflare
+- Sistema de entregas em Java (POO + SQLite/JDBC)
+- Sistema de cadastro CRUD em C, com persistência em arquivo binário
+- Sistema de mapeamento de trilhas
+- Projeto em C/C++ com jogos de console
+- Ensino de programação e desenvolvimento de jogos com Godot (CODEQUEST)
+- Controle de versão com Git & GitHub
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Linguagens
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -71,24 +67,26 @@ Também faço parte do **CODEQUEST**, onde ajudo no ensino de **programação** 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ### DevOps & Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ### Game Dev
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ---
 
-## 🚀 Filosofia
+## Como penso sobre programar
 
-> _"Programação não é apenas sobre resolver problemas.
-> É sobre construir algo que faça a diferença no dia a dia das pessoas."_
+> "Curto programar pensando em quem vai usar o que eu construí, não só em resolver o problema técnico."
 
 ---
 
-⭐ Se gostar do meu trabalho, considere deixar uma estrela em algum repositório
-🤝 Sempre aberto para colaborações, parcerias e novas ideias
+Se você gostar do meu trabalho, deixa uma estrela em algum repositório.
+Estou sempre aberto pra colaborações, parcerias e novas ideias.
