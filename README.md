@@ -17,19 +17,29 @@ Projeto de orientação a objetos com modelagem de usuários, pedidos e entregad
 
 [Ver repositório](https://github.com/danidds07/food-delivery-system)
 
-### CRUD em C
+### Agenda em C
+
+[Ver repositório](https://github.com/danidds07/c-agenda)
+
+### Gerenciamento de registros em C
 
 Sistema de cadastro com persistência em arquivos binários, leitura e escrita com fread, fwrite e fseek, busca por ID e nome, remoção lógica e física e ofuscação XOR byte a byte.
+
+[Ver repositório](https://github.com/danidds07/c-gerenciamento-registros)
 
 ### Jogos de terminal em C/C++
 
 Jogos desenvolvidos sem engine, com loops de jogo, máquinas de estados, geração procedural e renderização no console.
+
+[Ver repositório](https://github.com/danidds07/c-console-games)
 
 ### Mapeamento de trilhas
 
 Projeto de conclusão do técnico em Informática. Liderei uma equipe de quatro integrantes no desenvolvimento de uma aplicação web com Leaflet.js, Geolocation API e Firebase para acompanhar a localização do usuário e desenhar o trajeto percorrido.
 
 O projeto recebeu nota 9/10.
+
+[Ver repositório](https://github.com/danidds07/mapa-trilhas)
 
 ## Linguagens e ferramentas
 
